@@ -11,7 +11,7 @@ MacOS用：[點我下載](https://github.com/koko0221/yt-dlp_iOS-Shotcut/raw/ref
 
 ### V1.1 2025/01/15：
 
-捷徑“yt-dlp配置”裡面的指令打錯了，已經更新捷徑（點我也可以下載）
+捷徑“yt-dlp配置”裡面的指令打錯了，已經更新捷徑
 
 解釋：正確更新yt-dlp指令是pip install --upgrade yt-dlp才對，漏打了upgrade前面的兩個--，沒想到錯誤竟是我自己，順便簡化了初次安裝的流程。
 
