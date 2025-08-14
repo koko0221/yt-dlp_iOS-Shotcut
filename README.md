@@ -5,7 +5,7 @@
 
 iPad/iPhone用：[點我下載](https://github.com/koko0221/yt-dlp_iOS-Shotcut/raw/refs/heads/main/yt-dlp%E6%8D%B7%E5%BE%91.shortcut)
 
-MacOS用：點我下載
+MacOS用：[點我下載](https://github.com/koko0221/yt-dlp_iOS-Shotcut/raw/refs/heads/main/Mac%E7%89%88yt-dlp%E6%8D%B7%E5%BE%91.shortcut)
 
 ## 版本記錄：
 
@@ -27,10 +27,6 @@ MacOS用：點我下載
 
 這邊提供舊版捷徑連結：
 
-一、配置用捷徑：點我下載（V1.1）
-
-二、下載影片用捷徑：點我下載（V1.1）
-
 ### V1.3 2025/06/28：
 
 從這個版本開始我想加上編號，方便識別（當初沒有想維護那麽久
@@ -49,8 +45,6 @@ MacOS用：點我下載
 
 然後我一直不解網路上下載捷徑為什麼要用到Scriptable。
 
-iPhone/iPad舊版 V1.2：點我下載
-
 ### V1.4 2025/08/15：
 
 大半夜不睡在玩捷徑
@@ -59,5 +53,3 @@ iPhone/iPad舊版 V1.2：點我下載
 
  - 重新命名導入工具並增加了操作提示。
 * 如果有人會覺得明明沒在用cookies.txt，但系統還是會自動生成很煩請告訴我，我再盡快做新版本（已知問題）。
-
-iPhone/iPad舊版 V1.3：點我下載
